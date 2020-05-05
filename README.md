@@ -2,6 +2,6 @@
 **************************************
 
 #Este é um projeto de site Responsivo!
-#Utilização de css e javascript!
+#Utilização HTML5 ,css e javascript!
 
 ***************************************
